@@ -7,3 +7,9 @@
 
 12 - Given test for a company > was able to atleast understand and do write the messy code . 
      need to improve 
+
+13 - some leetcode qustions sliding window 
+     pointers topic 
+
+14 . Understood pointers with very easy trick . 
+     Rust language . 
